@@ -22,7 +22,7 @@ namespace CodecademyCSharp
             Console.WriteLine("    \\\\  __|__|__   I'm Awesome!");
             Console.WriteLine("      \\  ( o_o)");
             Console.WriteLine("          > ~ >");
-            Console.WriteLine("       /    / \\\\");
+            Console.WriteLine("         /    / \\\\");
             Console.WriteLine("      /   /    \\\\");
             Console.WriteLine("      \\  )     c/");
             Console.WriteLine("     /  /");
