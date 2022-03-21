@@ -11,7 +11,7 @@ namespace CodecademyCSharp
             Console.WriteLine("| O |");
             Console.WriteLine("|   |");
             Console.WriteLine("'~~~'");
-            Console.WriteLine("Gasparzinho, Buh.");
+           
 
             //The backslash \ is an escape character in C#, so
             // \" will show up as one quote int the output (")
