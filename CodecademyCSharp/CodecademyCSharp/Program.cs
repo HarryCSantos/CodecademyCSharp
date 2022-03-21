@@ -19,20 +19,20 @@ namespace CodecademyCSharp
             // * Pay atention SPACES MATTER! " (" is not the same as "(".
 
             Console.WriteLine("  c_    ___");
-            Console.WriteLine("  \\\\__|__|__   I'm Awesome!");
-            Console.WriteLine("    \\( o_o)");
-            Console.WriteLine("      > ~ >");
-            Console.WriteLine("     /    / \\\\");
-            Console.WriteLine("    /   /    \\\\");
-            Console.WriteLine("    \\  )     c/");
-            Console.WriteLine("   /  /");
-            Console.WriteLine("  /  /|");
-            Console.WriteLine(" (   ( \\");
-            Console.WriteLine(" |   |  \\");
-            Console.WriteLine(" |  / \\  )");
-            Console.WriteLine(" |  |  ) |");
-            Console.WriteLine(" /  )(_/");
-            Console.WriteLine("(_ /");
+            Console.WriteLine("    \\\\__|__|__   I'm Awesome!");
+            Console.WriteLine("      \\( o_o)");
+            Console.WriteLine("        > ~ >");
+            Console.WriteLine("       /    / \\\\");
+            Console.WriteLine("      /   /    \\\\");
+            Console.WriteLine("      \\  )     c/");
+            Console.WriteLine("     /  /");
+            Console.WriteLine("    /  /|");
+            Console.WriteLine("   (   ( \\");
+            Console.WriteLine("   |   |  \\");
+            Console.WriteLine("   |  / \\  )");
+            Console.WriteLine("   |  |  ) |");
+            Console.WriteLine("   /  )(_/");
+            Console.WriteLine("  (_ /");
 
 
 
