@@ -23,16 +23,16 @@ namespace CodecademyCSharp
             Console.WriteLine("      \\  ( o_o)");
             Console.WriteLine("          > ~ >");
             Console.WriteLine("         /    / \\\\");
-            Console.WriteLine("      /   /    \\\\");
-            Console.WriteLine("      \\  )     c/");
-            Console.WriteLine("     /  /");
-            Console.WriteLine("    /  /|");
-            Console.WriteLine("   (   ( \\");
-            Console.WriteLine("   |   |  \\");
-            Console.WriteLine("   |  / \\  )");
-            Console.WriteLine("   |  |  ) |");
-            Console.WriteLine("   /  )(_/");
-            Console.WriteLine("  (_ /");
+            Console.WriteLine("        /   /    \\\\");
+            Console.WriteLine("        \\  )     c/");
+            Console.WriteLine("       /  /");
+            Console.WriteLine("      /  /|");
+            Console.WriteLine("     (   ( \\");
+            Console.WriteLine("     |   |  \\");
+            Console.WriteLine("     |  / \\  )");
+            Console.WriteLine("     |  |  ) |");
+            Console.WriteLine("     /  )(_/");
+            Console.WriteLine("    (_ /");
 
 
 
