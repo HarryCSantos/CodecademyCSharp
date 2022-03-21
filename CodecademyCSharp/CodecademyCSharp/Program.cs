@@ -18,6 +18,22 @@ namespace CodecademyCSharp
             // and \\ will show up as one backslashin the output (\).
             // * Pay atention SPACES MATTER! " (" is not the same as "(".
 
+            Console.WriteLine("c_    ___");
+            Console.WriteLine("  \\\\__|__|__");
+            Console.WriteLine("    \\( o_o)");
+            Console.WriteLine("      > ~ >");
+            Console.WriteLine("     /    / \\\\");
+            Console.WriteLine("    /   /    \\\\");
+            Console.WriteLine("    \\  )     c/");
+            Console.WriteLine("   /  /");
+            Console.WriteLine("  /  /|");
+            Console.WriteLine(" (   ( \\");
+            Console.WriteLine(" |   |  \\");
+            Console.WriteLine(" |  / \\  )");
+            Console.WriteLine(" |  |  ) |");
+            Console.WriteLine(" /  )(_/");
+            Console.WriteLine("(_ /");
+
 
 
 
