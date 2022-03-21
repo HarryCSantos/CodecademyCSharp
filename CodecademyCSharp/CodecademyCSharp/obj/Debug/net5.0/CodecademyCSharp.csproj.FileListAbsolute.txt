@@ -1,0 +1,16 @@
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\bin\Debug\net5.0\CodecademyCSharp.exe
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\bin\Debug\net5.0\CodecademyCSharp.deps.json
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\bin\Debug\net5.0\CodecademyCSharp.runtimeconfig.json
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\bin\Debug\net5.0\CodecademyCSharp.runtimeconfig.dev.json
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\bin\Debug\net5.0\CodecademyCSharp.dll
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\bin\Debug\net5.0\ref\CodecademyCSharp.dll
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\bin\Debug\net5.0\CodecademyCSharp.pdb
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.AssemblyInfo.cs
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.dll
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\ref\CodecademyCSharp.dll
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.pdb
+C:\Users\harry\Desktop\My-Projects\CodecademyCSharp\CodecademyCSharp\CodecademyCSharp\obj\Debug\net5.0\CodecademyCSharp.genruntimeconfig.cache
