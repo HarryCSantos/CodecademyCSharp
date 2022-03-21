@@ -6,7 +6,7 @@ namespace CodecademyCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Codecademy!");
+            Console.WriteLine("Codecademy test!");
         }
     }
 }
