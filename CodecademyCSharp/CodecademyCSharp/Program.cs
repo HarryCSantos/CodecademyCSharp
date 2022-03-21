@@ -31,7 +31,7 @@ namespace CodecademyCSharp
             Console.WriteLine("     |   |  \\");
             Console.WriteLine("     |  / \\  )");
             Console.WriteLine("     |  |  ) |");
-            Console.WriteLine("     /  )(_/");
+            Console.WriteLine("     /  ) (_/");
             Console.WriteLine("    (_ /");
 
 
